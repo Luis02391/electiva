@@ -1,6 +1,6 @@
-# Bienvenidos al Repositorio de Electiva 2 - Práctica 1 ✨
+# Bienvenidos al Repositorio de Electiva 2
 
-¡Hola! Soy **Ivo Luis**, un apasionado del desarrollo tecnológico con un enfoque profesional y organizado. Este repositorio forma parte de mi trabajo en **Electiva 2** y está diseñado como una base sólida para proyectos futuros.
+¡Hola! Soy **Ivo Luis Rodríguez**, un apasionado del desarrollo software con un enfoque profesional y organizado. Este repositorio forma parte de mi trabajo en **Electiva 2** y está diseñado como una base sólida para proyectos futuros.
 
 ## 📂 ¿De qué trata este repositorio?
 
@@ -8,8 +8,6 @@ El objetivo de este repositorio es demostrar un manejo eficiente y estructurado 
 
 - Una **rama principal** (`main`) para mantener una versión estable del proyecto.  
 - Una **rama de desarrollo** (`dev`) para gestionar cambios y mejoras antes de integrarlos a la rama principal.  
-
-Además, incluye archivos iniciales que reflejan la estructura y organización de un proyecto profesional.  
 
 ## 🌐 Enlace al repositorio
 
