@@ -12,7 +12,7 @@ El objetivo de este repositorio es demostrar un manejo eficiente y estructurado 
 ## 🌐 Enlace al repositorio
 
 Puedes visitar el repositorio en el siguiente enlace:  
-[URL del repositorio público en GitHub]  
+https://github.com/Luis02391/electiva.git  
 
 ## 💼 Mi Portafolio
 
